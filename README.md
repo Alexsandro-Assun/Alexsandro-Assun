@@ -3,7 +3,7 @@
 
 
 
-## I'm Alexsandro!<img align="right" alt="PC GIF" src="https://img.gifmagazine.net/gifmagazine/images/3564007/180half_f.gif" width="320" />
+## I'm Alexsandro!<img align="right" alt="PC GIF" src="https://img.gifmagazine.net/gifmagazine/images/3564007/180half_f.gif" width="300" />
 
 A software developer, japanese culture lover and future polyglot :earth_asia:
 
