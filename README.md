@@ -9,6 +9,10 @@
 
 A software developer, japanese culture lover and developing polyglot :earth_asia:
 
+
+
+
+
 ## About me
 
  
