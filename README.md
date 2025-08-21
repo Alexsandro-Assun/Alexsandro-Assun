@@ -3,9 +3,7 @@
 
 
 
-## I'm Alexsandro!
-
-## <img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/13/bb/cd/13bbcd9f3704ececf998896d8879177f.gif" width="150" />
+## I'm Alexsandro!<img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/13/bb/cd/13bbcd9f3704ececf998896d8879177f.gif" width="150" />
 
 A software developer, japanese culture lover and developing polyglot :earth_asia:
 ## About me
